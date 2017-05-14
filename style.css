@@ -1,0 +1,11 @@
+body {
+  width: 30em;
+  display: block;
+  margin: auto;
+  background-color: snow;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'LobsterRegular', cursive;
+}
