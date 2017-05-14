@@ -1,1 +1,1 @@
-[Play](https://cascroydon.github.io/TheWhiteSnake/introduction.html)
+[Play](https://cascroydon.github.io/TheWhiteSnake/index.html)
